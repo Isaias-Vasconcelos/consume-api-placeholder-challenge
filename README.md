@@ -26,11 +26,6 @@ Os participantes devem construir um frontend que consuma a API JSONPlaceholder e
 - Excluir qualquer **Usuário**
 - Excluir qualquer **Tarefa (To-do)**
 
-## 😜 Como participar
-
-1. Clone este repositório original;
-2. Adicione seu projeto no repositório faça o push;
-
 ## 📌 Observações
 - A API JSONPlaceholder **não persiste as alterações**, pois é apenas para testes. No entanto, as ações devem funcionar corretamente no frontend, simulando o comportamento real com os métodos HTTP apropriados.
 - Use as rotas `GET`, `POST`, `PUT` e `DELETE` conforme necessário.
