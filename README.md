@@ -47,3 +47,7 @@ Principais endpoints:
 ---
 
 Bons estudos e bom desenvolvimento! 🚀
+
+Att,
+
+Isaías Vasconcelos
